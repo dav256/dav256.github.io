@@ -1,10 +1,12 @@
 # the way church
 
-![last commit](https://img.shields.io/github/last-commit/dav256/dav256.github.io?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/dav256/dav256.github.io?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/dav256/dav256.github.io?style=for-the-badge&logo=github) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-> ### The Way Church — a modern church website with a full-screen hero slider
+> **Website:** A modern church website built around a full-screen hero slider and elegant typography.
 
-a modern church website built with plain html, css, and javascript.
+**The Way Church website is built with plain HTML, CSS, and JavaScript.**
+
+Its clean, centered navigation pairs Playfair Display headlines with Montserrat body text, keeping the focus on the hero imagery and the church’s message.
 
 ## features
 
