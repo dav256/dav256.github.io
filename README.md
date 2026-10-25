@@ -1,4 +1,4 @@
-<h1><img src="icon.svg" width="44" height="44" align="middle" alt="The Way Church icon"> The Way Church</h1>
+<h1><img src="icon.svg" width="44" align="middle" alt="The Way Church icon"> The Way Church</h1>
 
 ![last commit](https://img.shields.io/github/last-commit/dav256/dav256.github.io?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/dav256/dav256.github.io?style=for-the-badge&logo=github) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
