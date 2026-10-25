@@ -1,6 +1,10 @@
 # the way church
 
-a modern church website with a full-screen hero slider, built with plain html, css, and javascript.
+![last commit](https://img.shields.io/github/last-commit/dav256/dav256.github.io?style=for-the-badge)
+
+> ### The Way Church — a modern church website with a full-screen hero slider
+
+a modern church website built with plain html, css, and javascript.
 
 ## features
 
